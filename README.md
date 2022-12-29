@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jihyun Kim 👋
 
 <!--
 **rabBit64/rabBit64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jihyun%20Kim&fontSize=30)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rabBit64)](https://solved.ac/rabBit64/)
