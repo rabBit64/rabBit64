@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jihyun%20Kim&fontSize=30)-->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rabBit64)](https://solved.ac/rabBit64/)
+
+<div><h4>📚 Currently Learning</h4></div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
